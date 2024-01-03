@@ -1,24 +1,18 @@
 [
     {
       "color": "ffee83ff",
-      "dopname": "| CRMP",
-      "maxonline": 1000,
       "name":"Aries RP #01",
       "online": 0,
       "serveronoff": true
     },
     {
       "color": "DA0043C8",
-      "dopname": "| CRMP",
-      "maxonline": 1000,
       "name":"Saint Mobile",
       "online": 1,
       "serveronoff": false
     },
     {
       "color": "DA0043C8",
-      "dopname": "| CRMP",
-      "maxonline": 1000,
       "name":"Saint Mobile",
       "online": 1,
       "serveronoff": false
