@@ -2,19 +2,19 @@
     {
       "color": "ffee83ff",
       "name":"Aries RP #01",
-      "online": "0",
+      "online": "0 / 1000",
       "serveronoff": true
     },
     {
       "color": "DA0043C8",
-      "name":"Saint Mobile",
-      "online": "1",
+      "name":"Aries RP #02",
+      "online": "0 / 1000",
       "serveronoff": false
     },
     {
       "color": "DA0043C8",
-      "name":"Saint Mobile",
-      "online": "1",
+      "name":"Aries RP #03",
+      "online": "0 / 1000",
       "serveronoff": false
     }
   ]
