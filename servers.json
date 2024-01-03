@@ -4,6 +4,7 @@
       "dopname": "| CRMP",
       "maxonline": 1000,
       "name":"Saint Mobile",
-      "online": 1
+      "online": 1,
+      "serveronoff": true,
     }
   ]
